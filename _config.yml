@@ -49,7 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bernardo and I'm a senior software engineer. As well as an Engineer in Telematics that has been working as a software engineer for 11 years. I've been playing as backend, frontend, full-stack, technical lead, lead, and manager in different projects. All these projects have included Ruby and JS with many frameworks like angular, reactJS, and backbone. Therefore I'm a very good senior software engineer who knows all layers of software development. I'm confident with the delivery process also in many of these projects I've been responsible for deployments to Heroku, AWS, and engine yard. Having said all this. I feel I can help with software development because it seems you are developing with Ruby on Rails and making choices to get things done using specialize tech for every problem.
+  Hi, my name's Bernardo and I'm a senior software engineer. As well as an Engineer in Telematics that has been working as a software engineer for 14 years. I've been playing as backend, frontend, full-stack, technical lead, lead, and manager in different projects. All these projects have included Ruby and JS with many frameworks like angular, reactJS, and backbone. Therefore I'm a very good senior software engineer who knows all layers of software development. I'm confident with the delivery process also in many of these projects I've been responsible for deployments to Heroku, AWS, and engine yard. Having said all this. I feel I can help with software development because it seems you are developing with Ruby on Rails and making choices to get things done using specialize tech for every problem.
 
   I am most skilled in: <mark>Ruby</mark> <mark> Ruby On Rails</mark> <mark> ReactJS </mark>
 
@@ -121,9 +121,12 @@ content:
         caption: Jun 2013 - May 2016
         quote: >
           Lead a Team of Engineers to build a great project to share contracts and collaborated online.
-        description:
-          I was the team lead of great team of 6 people building Share Contract project. We built this project with ruby on rails backend and VanillaJS frontend. We were able to load a contract or create one from a template and share this contract online and allow modifications on live, add comments and create version of the contract.
-          <mark>Achievements:</mark>
+        description: |
+          I was the team lead of great team of 6 people building Share Contract project. We built this project with ruby on rails backend and VanillaJS frontend.
+          We were able to load a contract or create one from a template and share this contract online and allow modifications on live, add comments and create version of the contract.
+
+          <mark> Achievements:</mark>
+
           - Rails 4 Api that reads doc, pdf, html and csv files and translate to front version renderable in VanillaJS.
           - VanillaJS application capable to modify DOM and monitor changes allowing the user to introduces html components that will be stored and shared in different formats.
         #link: github.com/sproogen
@@ -140,7 +143,6 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         #description: | # this will include new lines to allow paragraphs
         #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -155,6 +157,71 @@ content:
 
           I spent a lot of my free time learning software and computer basics in libraries, and supporting Researches in many projects.
 
+  - title: Skills
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-left
+        title: 14 years - Top Experience
+        quote: >
+          Main Languanges and Technologies
+        description: |
+
+            - Ruby
+            - Ruby On Rails
+            - Git
+            - VanillaJS
+            - HTML / CSS
+            - Redis
+            - PostgreSQL
+            - MySQL
+            - Redis
+            - Heroku deployments and Heroku stack
+            - Github
+            - Amazon AWS S3
+
+      - layout: top-left
+        title: 8 years of Experience
+        quote: >
+          Ocassional or as Demand solutions
+        description: |
+
+           - RSpec
+           - Minitest
+           - Cucumber
+           - Capybara
+           - Atlassian Jira
+           - Github Issues
+           - Trello
+           - Digital Ocean
+
+      - layout: top-left
+        title: Upto 3 years of Experience
+        quote: >
+          These are the languages I've used in some projects and continue using but now as Main language
+        description: |
+
+
+          - ReactJS
+          - AngularJS
+          - GraphQL
+          - Python
+          - NextJS
+          - TypeScript
+          - Vercel
+          - RubyMotion
+          - Sinatra
+          - Roda
+
+  - title: Roles
+    layout: list
+    content:
+       - layout: top-right
+         description: |
+           - Senior Software Engineer Backend / 14 years
+           - Senior Software Engineer Fullstack / 14 years
+           - Senior Software Engineer Frontend / 8 years
+           - Team Lead / 3 years
+           - Engineering Manager / 2years
 
 # Footer
 footer_show_references: true
