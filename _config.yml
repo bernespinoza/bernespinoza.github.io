@@ -1,0 +1,171 @@
+# Site
+domain: bernespinoza.github.io
+url:  https://bernespinoza.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Bernardo Espinoza
+title: Senior Software Engineer
+email: bernardo466@gmail.com
+website: www.github.com/bernespinoza/bernespinoza
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username: facespics
+github_username:  bernespinoza
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: jameswgrant
+linkedin_username: bernardoespinoza
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: Blog
+  icon: fas fa-globe
+  url: https://medium.com/@bernardo466
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Bernardo and I'm a senior software engineer. As well as an Engineer in Telematics that has been working as a software engineer for 11 years. I've been playing as backend, frontend, full-stack, technical lead, lead, and manager in different projects. All these projects have included Ruby and JS with many frameworks like angular, reactJS, and backbone. Therefore I'm a very good senior software engineer who knows all layers of software development. I'm confident with the delivery process also in many of these projects I've been responsible for deployments to Heroku, AWS, and engine yard. Having said all this. I feel I can help with software development because it seems you are developing with Ruby on Rails and making choices to get things done using specialize tech for every problem.
+
+  I am most skilled in: <mark>Ruby</mark> <mark> Ruby On Rails</mark> <mark> ReactJS </mark>
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Senior Software Engineer
+        caption: Jun 2017 - Present
+        quote: >
+          I'm responsible to provide software solutions, build, and maintain the platforms. I worked closely with software consultancy companies clients and engineers.
+        description: |
+          I worked with Ruby on Rails, GraphQL as a Backend service, and React, NextJS, and Typescript to operate the Frontend. My responsibilities were but were not limited to: |
+            - Maintain Ruby on Roda application
+            - Maintain Ruby on Rails api
+            - Maintain Ruby on Rails app with GraphQl
+            - Maintain Ruby on Rails mobile application
+            - Maintain Internal Ruby Gems
+
+          <mark>Achievements:</mark>
+
+            - Migrated Ruby on Roda application from ruby 2.3 to 2.7 and updated all gems dependencies
+            - Migrated Ruby on Rails api from rails 3 to rails 7
+            - Migrated Ruby on Rails mobile application from rails 4 to 7 and used activestorage, estimulus, removed webpack and introduces ActiveJob and ActionCable.
+            - Updated old gem ruby versions to newer versions
+            - deployed and migrated from heroku stack 16 to heroku 20 and 22
+
+      - layout: left
+        title: Engineering Manager
+        caption: May 2016 - May 2017
+        quote: >
+          Lead a great team of engineers to build components that consume a Phyton Api resposible to delivery Janrain Profiles and data.
+        description: |
+          I was responsible to development first Angular / React components that consumes an existing Python Api that reads JanRain profile data. Also I was responsible to
+          create a team of engineers to build the new components and Python Api.
+
+          <mark>Achievements:</mark>
+
+          - Create first angular dashboard version using the new Python API Improve and add new features to the angular dashboard 
+          - Scaled a solo Team to 10 engineers Team. 
+          - Add new features and test to Python API. 
+          - Angular plugin to build search queries. 
+          - Makefiles to pack, deploy angular code. 
+          - Great team velocity and always accomplish sprint goals.
+
+      - layout: left
+        title: Senior Software Engineer / Team Lead
+        caption: December 2014 - May 2016
+        quote: >
+          I worked in an special team resposible to manage New Relic account data. I was a senior software engineer and my last role was Team Lead.
+        description: |
+          We are all data nerds. We care and love data and build applications that make Software reliable, faster and predictable. As Senior Engineer in the Accounts team, We were responsible to expose all account information to New Relic products.
+
+          <mark> Achievements:</mark>
+
+          - Released and maintain Accounts components built with AngularJS, ReactJS, Ruby Microservices.
+          - New dashboard to create a new relic account and select products to monitor client's application.
+          - Released Thrift services that help Insights Product 
+          - Ruby Kafka consumer able to read 200k messages per minute 
+          - Design and implement Software Release infrastructure (CI server, Docker Builder, Deploy Images, Rollback Images) over Jenkins, Amazon and CLI tool.
+          - Implemented the whole suite of software monitors using Synthetics, Alerts, and PagerDuty.
+          - Build API endpoints using Ruby Grape Framework that consumes Thrift services.
+          - Command line application with Ruby to manage S3 docker images files downloaded and deploy to the server.
+          - Gold metal for monitoring and support of projects 
+          - Professional Promotion
+
+      - title: Technical Lead
+        caption: Jun 2013 - May 2016
+        quote: >
+          Lead a Team of Engineers to build a great project to share contracts and collaborated online.
+        description:
+          I was the team lead of great team of 6 people building Share Contract project. We built this project with ruby on rails backend and VanillaJS frontend. We were able to load a contract or create one from a template and share this contract online and allow modifications on live, add comments and create version of the contract.
+          <mark>Achievements:</mark>
+          - Rails 4 Api that reads doc, pdf, html and csv files and translate to front version renderable in VanillaJS.
+          - VanillaJS application capable to modify DOM and monitor changes allowing the user to introduces html components that will be stored and shared in different formats.
+        #link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #description: | # this will include new lines to allow paragraphs
+        #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Colima University
+        caption: 2010 - 2013
+        sub_title: BSc Telamatics Engineering
+        quote: >
+          Stablished on August 2nd in 1996 as first Faculty to offer a carrer that joined telecomunications, infrastructure and informatics. Also the first with an smart building and fast internet and intranet connection in Mexico.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Ucol I learnt many skills in many different areas. Electronics, computer systems, robotics, telecomunications, signals, informatic, computer sciences, networking, aumented reality, digital media and more skill that allow me to always keep learning new technologies and proposing new solutions.
+
+          I spent a lot of my free time learning software and computer basics in libraries, and supporting Researches in many projects.
+
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
