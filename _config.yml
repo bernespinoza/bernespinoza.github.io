@@ -57,7 +57,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Senior Software Engineer
+        title: Senior Fullstack Engineer
+        sub_title: CoSi
         caption: Jun 2017 - Present
         quote: >
           I'm responsible to provide software solutions, build, and maintain the platforms. I worked closely with software consultancy companies clients and engineers.
@@ -79,6 +80,7 @@ content:
 
       - layout: left
         title: Engineering Manager
+        sub_title: Janrain
         caption: May 2016 - May 2017
         quote: >
           Lead a great team of engineers to build components that consume a Phyton Api resposible to delivery Janrain Profiles and data.
@@ -97,6 +99,7 @@ content:
 
       - layout: left
         title: Senior Software Engineer / Team Lead
+        sub_title: NewRelic
         caption: December 2014 - May 2016
         quote: >
           I worked in an special team resposible to manage New Relic account data. I was a senior software engineer and my last role was Team Lead.
@@ -117,6 +120,7 @@ content:
           - Professional Promotion
 
       - title: Technical Lead
+        sub_title: SYE Software / ContractShare
         caption: Jun 2013 - May 2016
         quote: >
           Lead a Team of Engineers to build a great project to share contracts and collaborated online.
@@ -210,6 +214,7 @@ content:
           - RubyMotion
           - Sinatra
           - Roda
+          - Ruby Thrift Services
 
   - title: Roles
     layout: list
@@ -220,7 +225,7 @@ content:
            - Senior Software Engineer Fullstack / 14 years
            - Senior Software Engineer Frontend / 8 years
            - Team Lead / 3 years
-           - Engineering Manager / 2years
+           - Engineering Manager / 1 year
 
 # Footer
 footer_show_references: true
