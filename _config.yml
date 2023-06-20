@@ -8,7 +8,7 @@ version: 2
 
 # Personal info
 name: Bernardo Espinoza
-title: Senior Software Engineer
+title: Senior Software Engineer & Tech Lead
 email: bernardo466@gmail.com
 
 # Dark Mode (true/false/never)
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bernardo and I'm a senior software engineer. As well as an Engineer in Telematics that has been working as a software engineer for 14 years. I've been playing as backend, frontend, full-stack, technical lead, lead, and manager in different projects. All these projects have included Ruby and JS with many frameworks like angular, reactJS, and backbone. Therefore I'm a very good senior software engineer who knows all layers of software development. I'm confident with the delivery process also in many of these projects I've been responsible for deployments to Heroku, AWS, and engine yard. Having said all this. I feel I can help with software development because it seems you are developing with Ruby on Rails and making choices to get things done using specialize tech for every problem.
+  Hi, my name's Bernardo and I'm a Senior Software Engineer and Tech Lead. As well as an Engineer in Telematics that has been working as a Software Engineer for 14 years. I've been playing as backend, frontend, full-stack, technical lead, lead, and Engineering Manager in different projects. All these projects have included Ruby and JS with many frameworks like angular, reactJS, and backbone. Therefore I'm a very good senior software engineer who knows all layers of software development. I'm confident with the delivery process also in many of these projects I've been responsible for deployments to Heroku, AWS, and engine yard. Having said all this. I feel I can help with software development because it seems you are developing with Ruby on Rails and making choices to get things done using specialize tech for every problem.
 
   I am most skilled in: <mark>Ruby</mark> <mark> Ruby On Rails</mark> <mark> ReactJS </mark>
 
