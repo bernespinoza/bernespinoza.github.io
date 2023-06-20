@@ -8,7 +8,8 @@
 - I've worked in many private projects with different github handles please\
 ask me about 💬
 
-![Bernardo Espinoza GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoespinoza&show_icons=true&theme=transparent)
+[![Bernardo Espinoza GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoespinoza&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
