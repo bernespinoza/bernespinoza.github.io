@@ -228,8 +228,6 @@ content:
           - Claude
           - OpenAI
           - Cline
-          - Fedora
-          - Ubuntu
           - Firebase db
           - Google pub/sub
           - Google cloud logs
