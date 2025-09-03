@@ -228,9 +228,9 @@ content:
           - Amazon ECR
           - Circle CI
           - Apollo
-          - Claude
-          - OpenAI
-          - Cline
+          - Claude code AI integration ruby and typescript projects
+          - OpenAI integration in vscode
+          - Cline orchestrate AI models
           - Firebase db
           - Google pub/sub
           - Google cloud logs
