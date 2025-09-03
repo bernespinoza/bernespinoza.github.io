@@ -177,7 +177,6 @@ content:
             - Redis
             - PostgreSQL
             - MySQL
-            - Redis
             - Heroku deployments and Heroku stack
             - Github
             - Amazon AWS S3  
@@ -197,6 +196,8 @@ content:
            - Trello
            - Digital Ocean
            - VIM
+           - Sequel
+           
 
       - layout: top-left
         title: Upto 5 years of Experience
@@ -215,6 +216,8 @@ content:
           - Sinatra
           - Roda
           - Ruby Thrift Services
+          - MongoDB
+          - Sqlite 3
           
       - layout: top-left
         title: Upto 3 years of Experience
@@ -231,6 +234,7 @@ content:
           - Firebase db
           - Google pub/sub
           - Google cloud logs
+          - Figma
           
   - title: Roles
     layout: list
