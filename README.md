@@ -8,11 +8,9 @@
 - I've worked in many private projects with different github handles please\
 ask me about 💬
 
-[![Bernardo Espinoza GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoespinoza&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Bernardo Espinoza GitHub stats](https://github-readme-stats-bernespinoza.vercel.app/api?username=bernespinoza&show_icons=true&theme=transparent&hide=stars&include_all_commits=true)](https://github.com/bernespinoza/github-readme-stats)
 
-[![Bernardo Espinoza 2 Github stats](https://github-readme-stats.vercel.app/api?username=bernesp&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Bernardo Espinoza GitHub stats](https://github-readme-stats-bernespinoza.vercel.app/api?username=bernesp&show_icons=true&theme=transparent&hide=stars&include_all_commits=true)](https://github.com/bernespinoza/github-readme-stats)
 
 
 
