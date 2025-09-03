@@ -10,6 +10,8 @@ ask me about 💬
 
 [![Bernardo Espinoza GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoespinoza&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Bernardo Espinoza 2 Github stats](https://github-readme-stats.vercel.app/api?username=bernesp&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
