@@ -1,10 +1,10 @@
 ## Hola!, Soy Bernardo Espinoza
 ---
 
-### I'm Senior Software Engineer and Tech lead
+### Senior Engineering Leader | Ruby/Rails Expert | Team Builder & Technical Strategist
 
-- I'm currently working on update old ruby applications 🚂 -> 🚄
-- I'm creating a ruby application to test api
+- I'm currently working on migration of old ruby applications 🚂 -> 🚄 to aws
+- I'm working in Typscript project with many data sources in GraphQL, rest API
 - I've worked in many private projects with different github handles please\
 ask me about 💬
 
