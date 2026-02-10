@@ -48,9 +48,18 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bernardo and I'm a Senior Software Engineer and Tech Lead. As well as an Engineer in Telematics that has been working as a Software Engineer for 14 years. I've been playing as backend, frontend, full-stack, technical lead, lead, and Engineering Manager in different projects. All these projects have included Ruby and JS with many frameworks like angular, reactJS, and backbone. Therefore I'm a very good senior software engineer who knows all layers of software development. I'm confident with the delivery process also in many of these projects I've been responsible for deployments to Heroku, AWS, and engine yard. Having said all this. I feel I can help with software development because it seems you are developing with Ruby on Rails and making choices to get things done using specialize tech for every problem.
+  Engineering leader with 14+ years building scalable platforms and high-performing teams. Proven track record scaling teams from 1 to 10 engineers while delivering business-critical systems.
 
-  I am most skilled in: <mark>Ruby</mark> <mark> Ruby On Rails</mark> <mark> ReactJS </mark>
+  LEADERSHIP IMPACT
+  - Scaled engineering team 10x at Janrain while maintaining sprint velocity
+  - Led cross-functional teams across backend, frontend, and infrastructure
+  - Mentored engineers from junior to senior levels
+  - Drove technical decisions for systems processing 200k+ messages/minute
+
+  TECHNICAL EXPERTISE
+  - Ruby/Rails architecture, GraphQL APIs, cloud infrastructure (AWS, GCP, Heroku), React/TypeScript frontends, high-volume data processing
+
+  Currently Co-Founder at CoSi and CTO at Caninolabs, focused on building scalable software solutions and growing engineering capabilities.
 
 content:
   - title: Experience # Title for the section
@@ -61,22 +70,21 @@ content:
         sub_title: CoSi
         caption: Jun 2017 - Present
         quote: >
-          I'm responsible to provide software solutions, build, and maintain the platforms. I worked closely with software consultancy companies clients and engineers.
+         Leading technical strategy and engineering operations for software consultancy.
         description: |
-          I worked with Ruby on Rails, GraphQL as a Backend service, and React, NextJS, and Typescript to operate the Frontend. My responsibilities were but were not limited to: |
-            - Maintain Ruby on Roda application
-            - Maintain Ruby on Rails api
-            - Maintain Ruby on Rails app with GraphQl
-            - Maintain Ruby on Rails mobile application
-            - Maintain Internal Ruby Gems
+          <mark>LEADERSHIP & STRATEGY</mark>
+          - Built and managed engineering team serving multiple client engagements
+          - Established development processes, code review standards, and deployment pipelines
+          - Mentored junior and mid-level engineers on architecture and best practices
+          - Drove technical decision-making for client projects across Ruby, Rails, and React ecosystems
+          
+          <mark>TECHNICAL ACHIEVEMENTS></mark>
+          - Modernized legacy Ruby platforms (1.7 → 2.7) serving production traffic
+          - Migrated applications across Heroku stacks (16 → 22) and to AWS infrastructure
+          - Reduced deployment times by 78% through infrastructure optimization
+          - Built and maintained GraphQL APIs, mobile applications, and internal tooling
 
-          <mark>Achievements:</mark>
-
-            - Migrated Ruby on Roda application from ruby 2.3 to 2.7 and updated all gems dependencies
-            - Migrated Ruby on Rails api from rails 3 to rails 7
-            - Migrated Ruby on Rails mobile application from rails 4 to 7 and used activestorage, estimulus, removed webpack and introduces ActiveJob and ActionCable.
-            - Updated old gem ruby versions to newer versions
-            - deployed and migrated from heroku stack 16 to heroku 20 and 22
+          Skills: Team Leadership · Technical Strategy · Ruby on Rails · GraphQL · AWS · React
 
       - layout: left
         title: Engineering Manager
@@ -182,7 +190,7 @@ content:
             - Amazon AWS S3  
 
       - layout: top-left
-        title: 10 years of Experience
+        title: 13 years of Experience
         quote: >
           Ocassional or as Demand solutions
         description: |
@@ -200,7 +208,7 @@ content:
            
 
       - layout: top-left
-        title: Upto 5 years of Experience
+        title: Upto 6 years of Experience
         quote: >
           These are the languages I've used in some projects and continue using but now as Main language
         description: |
@@ -220,7 +228,7 @@ content:
           - Sqlite 3
           
       - layout: top-left
-        title: Upto 3 years of Experience
+        title: Upto 5 years of Experience
         quote: >
           These are the languages I've used in some projects and continue using but now as Main language
         description: |    
@@ -235,6 +243,26 @@ content:
           - Google pub/sub
           - Google cloud logs
           - Figma
+
+      - layout: top-left
+        title: LEADERSHIP & MANAGEMENT (4+ years)
+        description: |
+          - Team Building & Scaling (1 → 10 engineers)
+          - Engineering Management & Mentorship
+          - Technical Strategy & Architecture Decisions
+          - Cross-functional Collaboration
+          - Sprint Planning & Agile Methodologies
+          - Code Review & Quality Standards
+          - Hiring & Performance Management
+
+      - layout: top-left
+        title: NOTABLE ACHIEVEMENTS
+        description: |
+          - Built engineering team from scratch to 10 people at Janrain (2016-2017)
+          - Designed and implemented CI/CD infrastructure serving multiple products at NewRelic
+          - Led technical migration reducing deployment time 78% while maintaining zero downtime
+          - Established code quality standards and review processes across distributed teams
+    
           
   - title: Roles
     layout: list
@@ -244,8 +272,8 @@ content:
            - Senior Software Engineer Backend / 16 years
            - Senior Software Engineer Fullstack / 16 years
            - Senior Software Engineer Frontend / 10 years
-           - Team Lead / 3 years
-           - Engineering Manager / 1 year
+           - Team Lead / 4 years
+           - Engineering Manager / 4 year
 
 # Footer
 footer_show_references: true
