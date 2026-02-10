@@ -50,13 +50,13 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Engineering leader with 14+ years building scalable platforms and high-performing teams. Proven track record scaling teams from 1 to 10 engineers while delivering business-critical systems.
 
-  LEADERSHIP IMPACT
+  <mark>LEADERSHIP IMPACT</mark>
   - Scaled engineering team 10x at Janrain while maintaining sprint velocity
   - Led cross-functional teams across backend, frontend, and infrastructure
   - Mentored engineers from junior to senior levels
   - Drove technical decisions for systems processing 200k+ messages/minute
 
-  TECHNICAL EXPERTISE
+  <mark>TECHNICAL EXPERTISE</mark>
   - Ruby/Rails architecture, GraphQL APIs, cloud infrastructure (AWS, GCP, Heroku), React/TypeScript frontends, high-volume data processing
 
   Currently Co-Founder at CoSi and CTO at Caninolabs, focused on building scalable software solutions and growing engineering capabilities.
@@ -187,12 +187,13 @@ content:
             - MySQL
             - Heroku deployments and Heroku stack
             - Github
-            - Amazon AWS S3  
+            - Amazon AWS S3 
+            - Rest API (json)
 
       - layout: top-left
         title: 13 years of Experience
         quote: >
-          Ocassional or as Demand solutions
+          On Demand solutions
         description: |
 
            - RSpec
@@ -205,7 +206,8 @@ content:
            - Digital Ocean
            - VIM
            - Sequel
-           
+           - Typescript
+           - GraphQL
 
       - layout: top-left
         title: Upto 6 years of Experience
@@ -215,10 +217,8 @@ content:
 
           - ReactJS
           - AngularJS
-          - GraphQL
           - Python
           - NextJS
-          - TypeScript
           - Vercel
           - RubyMotion
           - Sinatra
@@ -243,6 +243,8 @@ content:
           - Google pub/sub
           - Google cloud logs
           - Figma
+          - MCP endpoints
+          - MCP server
 
       - layout: top-left
         title: LEADERSHIP & MANAGEMENT (4+ years)
