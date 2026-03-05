@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Scaled engineering team 10x at Janrain while maintaining sprint velocity
   - Led cross-functional teams across backend, frontend, and infrastructure
   - Mentored engineers from junior to senior levels
-  - Drove technical decisions for systems processing 200k+ messages/minute
+  - Drive technical decisions for systems processing 200k+ messages/minute
 
   <mark>TECHNICAL EXPERTISE</mark>
   - Ruby/Rails architecture, GraphQL APIs, cloud infrastructure (AWS, GCP, Heroku), React/TypeScript frontends, high-volume data processing
@@ -76,15 +76,18 @@ content:
           - Built and managed engineering team serving multiple client engagements
           - Established development processes, code review standards, and deployment pipelines
           - Mentored junior and mid-level engineers on architecture and best practices
-          - Drove technical decision-making for client projects across Ruby, Rails, and React ecosystems
+          - Drive technical decision-making for client projects across Ruby, Rails, and React ecosystems
           
           <mark>TECHNICAL ACHIEVEMENTS></mark>
           - Modernized legacy Ruby platforms (1.7 → 2.7) serving production traffic
           - Migrated applications across Heroku stacks (16 → 22) and to AWS infrastructure
           - Reduced deployment times by 78% through infrastructure optimization
           - Built and maintained GraphQL APIs, mobile applications, and internal tooling
+          - Led AWS ECS migration of 4 interconnected applications (independent execution)
+          - Reduced deployment time 78% through infrastructure optimization
+          - Authored 5 internal gems/tools used across engineering organization
 
-          Skills: Team Leadership · Technical Strategy · Ruby on Rails · GraphQL · AWS · React
+          Skills: Team Leadership · Technical Strategy · Ruby on Rails · GraphQL · AWS · React  · Docker  · Postgresql  · Roda  · OpalJs 
 
       - layout: left
         title: Engineering Manager
@@ -264,6 +267,13 @@ content:
           - Designed and implemented CI/CD infrastructure serving multiple products at NewRelic
           - Led technical migration reducing deployment time 78% while maintaining zero downtime
           - Established code quality standards and review processes across distributed teams
+          - **4,800+ commits** across 20+ production repositories
+          - **200,000+ messages/minute** Kafka consumer (New Relic)
+          - **1 → 10 engineers** team scaling (Janrain)
+          - **78% deployment reduction** (infrastructure optimization)
+          - **18+ services** coordinated PostgreSQL migration
+          - **5 internal gems** authored from scratch
+          - **Gold Medal** for monitoring excellence (New Relic)
     
           
   - title: Roles
@@ -271,9 +281,7 @@ content:
     content:
        - layout: top-right
          description: |
-           - Senior Software Engineer Backend / 16 years
-           - Senior Software Engineer Fullstack / 16 years
-           - Senior Software Engineer Frontend / 10 years
+           - Senior Software Engineer Fullstack / 18 years
            - Team Lead / 4 years
            - Engineering Manager / 4 year
 
