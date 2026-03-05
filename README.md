@@ -1,12 +1,14 @@
-## Hola!, Soy Bernardo Espinoza
----
+### 👋 Hi, I'm Bernardo 
 
-### Senior Engineering Leader | Ruby/Rails Expert | Team Builder & Technical Strategist
+I'm a **senior software engineer with 18 years** building production systems that scale. I've architected platforms processing **200,000+ messages/minute**, reduced deployment times **78%**, and led AWS migrations for business-critical systems.
 
-- I'm currently working on migration of old ruby applications 🚂 -> 🚄 to aws
-- I'm working in Typscript project with many data sources in GraphQL, rest API
-- I've worked in many private projects with different github handles please\
-ask me about 💬
+**Currently exploring:** Senior/Staff Engineer or Engineering Manager roles where I can leverage my expertise in Ruby/Rails, distributed systems, and team leadership to drive meaningful impact.
+
+**What I bring:**
+- 🎯 **Deep technical expertise**: Ruby (16y), Rails 3-8, distributed systems, event-driven architecture
+- 🚀 **Proven delivery**: 4,800+ commits across 20+ production repositories
+- 👥 **Leadership**: Scaled teams 1→10 engineers, mentored juniors to seniors
+- 🏗️ **Infrastructure**: AWS/GCP migrations, CI/CD automation, high-availability systems
 
 [![Bernardo Espinoza GitHub stats](https://github-readme-stats-bernespinoza.vercel.app/api?username=bernespinoza&show_icons=true&theme=transparent&hide=stars&include_all_commits=true)](https://github.com/bernespinoza/github-readme-stats)
 
